@@ -1,7 +1,6 @@
 Practical-Vim-Notes
 ===================
 
-Notes for Practical Vim
 #Contents
 
 ##The Vim Way
