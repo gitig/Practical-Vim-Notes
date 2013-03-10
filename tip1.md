@@ -27,5 +27,5 @@
   
 #Example:  
 ![tip1](images/tip1.png)
-
-
+  
+[Contents](README.MD) [Tip2](tip2.md)

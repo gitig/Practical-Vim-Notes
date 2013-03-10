@@ -14,6 +14,8 @@
 >j$. --> for other lines.(. equals a;Esc)  
   
 #Reduce Extraneous Movement  
->A;Esc --> j. (A instead of $a)  
-  
-![tip2](images/tip2.png)
+>A;Esc --> j. (A instead of $a)      
+
+![tip2](images/tip2.png)  
+	   
+[Tip1](tip1.md) [Tip3](tip3.md)
