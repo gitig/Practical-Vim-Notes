@@ -1,7 +1,7 @@
-##$:  
+`$`:  
 >move the cursor to the end of the line.  
   
-##a:  
+`a`:  
 >append after the current position.  
   
 ##A:  
