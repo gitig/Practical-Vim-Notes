@@ -3,7 +3,7 @@
 ##Goal: delete the word **nigh**  
   
 ##Delete Backward  
-![tip9_1](tip9_1.png)  
+![tip9_1](images/tip9_1.png)  
   
 ##db  
 >delete from the cursor's starting position to the beginning of the word, but it leaves the final **h** intact.  
@@ -11,7 +11,7 @@
   
 
 ##Delete Forward  
-![tip9_2](tip9_2.png)  
+![tip9_2](images/tip9_2.png)  
   
 ##b  
 >put the cursor into position of the starting of the word.  
@@ -20,7 +20,7 @@
 **comment**: dot isn't useful cause cursor is already at end of the line(no next word).  at least: `.` == `dw`
   
 ##Delete an Entire Word  
-![tip9_3](tip9_3.png)  
+![tip9_3](images/tip9_3.png)  
   
 ##daw  
 >delete the current word and also delete a whitespace character.  
