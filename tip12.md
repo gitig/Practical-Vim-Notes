@@ -1,4 +1,4 @@
-#Tip: Combine and Conquer  
+#Tip12: Combine and Conquer  
   
 #Action = Operator + Motion  
   
@@ -9,4 +9,4 @@
   
 ![tip12](images/tip12.png)  
   
-
+#[<<Tip11](tip11.md) [Tip13>>](tip13.md)

@@ -1,3 +1,5 @@
+#Tip5: Find and Replace by Hand  
+  
 ##Search 'target' and replace all the 'target'  
 >:%s/target/replacemnet/g  
   

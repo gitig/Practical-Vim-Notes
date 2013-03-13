@@ -1,3 +1,5 @@
+#Tip1: Meet the Dot Command  
+  
 ##Dot:    
 >repeat the last change.  
   

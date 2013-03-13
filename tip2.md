@@ -1,3 +1,5 @@
+#Tip2: Don't Repeat Yourself  
+  
 ##$:  
 >move the cursor to the end of the line.  
   

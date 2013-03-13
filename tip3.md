@@ -1,3 +1,5 @@
+#Tip3: Take One Step Back, Then Three Forward  
+  
 ##f{char}     
 >look ahead for the next occurrence of the specified character and move cursor directly to it.  
   
