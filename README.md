@@ -14,9 +14,9 @@ Tip 6. [Meet the Dot Formula](tip6.md): **One key to move, One key to execute**
 Part I — Modes  
 ##2. Normal Mode  
 Tip 7. [Pause with Your Brush Off the Page](tip7.md)  
-Tip 8. [Chunk Your Undos](tip8.md)
+Tip 8. [Chunk Your Undos](tip8.md)  
 Tip 9. [Compose Repeatable Changes](tip9.md)  
-Tip 10.[Use Counts to Do Simple Arithmetic](tip10.md)
+Tip 10.[Use Counts to Do Simple Arithmetic](tip10.md)  
 Tip 11.[Don’t Count If You Can Repeat](tip11.md)  
 Tip 12.[Combine and Conquer](tip12.md)  
 ##3. Insert Mode  
