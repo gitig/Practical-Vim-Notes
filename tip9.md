@@ -1,6 +1,6 @@
 #Tip9: Compose Repeatable Change  
   
-##Goal: delete the word **nigh**  
+`Goal`: delete the word `nigh`  
   
 ##Delete Backward  
 ![tip9_1](images/tip9_1.png)  
@@ -15,6 +15,8 @@
   
 ##b  
 >put the cursor into position of the starting of the word.  
+  
+
 ##dw  
 >delete from the cursor position to the begining of the next word.  
 **comment**: dot isn't useful cause cursor is already at end of the line(no next word).  at least: `.` == `dw`
