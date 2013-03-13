@@ -8,11 +8,11 @@
 >perform subtraction on numbers.  
    
    
-**comment**: When run without a count they increment by one, but if we prefix a number, we can change by that number. For example, if we positioned
-our cursor on a `5` character, running `10<C-a>` would modify it to read 15.  
+**comment**: When run without a count they increment by one, but if we prefix a number, we can change by that number. For example, if we positioned our cursor on a `5` character, running `10<C-a>` would modify it to read `15`.  
   
 
-But what happens if the cursor is not positioned on a numeric digit? The documentation says that the `<C-a>` command will “**add [count] to the number at or after the cursor**” (see :h ctrl-a ). So if the cursor is not already positioned on a number, then the `<C-a>` command will look ahead for a digit on the current line. If it finds one, it jumps straight to it. We can use this to our advantage.  
+But what happens if the cursor is not positioned on a numeric digit? The documentation says that the `<C-a>` command will **“add [count] to the number at or after the cursor”** (see :h ctrl-a ). So if the cursor is not already positioned on a number, then the `<C-a>` command will look ahead for a digit on the current line. If it finds one, it jumps straight to it. We can use this to our advantage. 
+  
 ##yyp  
 >duplicate current line once  
   
@@ -20,7 +20,7 @@ But what happens if the cursor is not positioned on a numeric digit? The documen
 >delete character under the cursor and change to Insert mode.  
   
 ##cW  
->delete to the end of the word under the cursor.  
+>delete to the end of the word under the cursor and change to Insert mode.  
   
 #Example:  
 ![tip10](images/tip10.png)  
