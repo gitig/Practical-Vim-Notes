@@ -8,4 +8,4 @@
 ##Example  
 >`<C-o>zz`: When the current line is right at the top or button of the window, you sometimes want to scroll the screen to see a bit more context. The `zz` command **redraws the screen with the current line in the middle of the window**, which allows us to read **half a screen above and below** the line we're working on.  
   
-[<<Tip13](tip13.md) [Tip15>>](tip15.md)
+#[<<Tip13](tip13.md) [Tip15>>](tip15.md)

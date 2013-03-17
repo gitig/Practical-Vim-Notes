@@ -1,4 +1,4 @@
-#Make Corrections Instantly from Insert Mode  
+#Tip13: Make Corrections Instantly from Insert Mode  
   
 ##Left Ctrl  
 ![tip13](images/tip13.png)  
