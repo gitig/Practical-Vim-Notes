@@ -1,6 +1,7 @@
 #Tip17: Insert Unusual Characters by Character Code  
   
-##&lt;C-u&gt;{code}  
+
+##&lt;C-v&gt;{code}  
 >From Insert mode, entering symbols that are not found on the keyboard. `{code}` is the address of the character that we want to insert.  
   
 **note**: code consist of three digits! like: `<C-v>065`-->'A' or a four-digit hexadecimal code: `<C-v>u00bf`-->'¿'  
