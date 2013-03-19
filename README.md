@@ -15,18 +15,19 @@ Part I — Modes
 ##2. Normal Mode  
 Tip 7. [Pause with Your Brush Off the Page](tip7.md)  
 Tip 8. [Chunk Your Undos](tip8.md)  
-Tip 9. [Compose Repeatable Changes](tip9.md)  
-Tip 10. [Use Counts to Do Simple Arithmetic](tip10.md)  
-Tip 11. [Don’t Count If You Can Repeat](tip11.md)  
-Tip 12. [Combine and Conquer](tip12.md)  
+Tip 9. [Compose Repeatable Changes](tip9.md): `db`, `b`, `dw`, `daw`   
+Tip 10. [Use Counts to Do Simple Arithmetic](tip10.md): `<C-a>`, `<C-x>`, `yyp`, `cw`, `cW`  
+Tip 11. [Don’t Count If You Can Repeat](tip11.md): `d2w/W`, `2dw/W`, `dw.`  
+Tip 12. [Combine and Conquer](tip12.md): `gu`, `gU`, `y`, `d`, `c`, `=`  
+										    
 ##3. Insert Mode  
-Tip 13. [Make Corrections Instantly from Insert Mode](tip13.md)
-Tip 14. [Get Back to Normal Mode](tip14.md)
-Tip 15. [Paste from a Register Without Leaving Insert Mode](tip15.md)
-Tip 16. [Do Back-of-the-Envelope Calculations in Place](tip16.md)
-Tip 17. [Insert Unusual Characters by Character Code](tip17.md) 
-Tip 18. [Insert Unusual Characters by Digraph](tip18.md)
-Tip 19. [Overwrite Existing Text with Replace Mode](tip19.md)
+Tip 13. [Make Corrections Instantly from Insert Mode](tip13.md): `<C-h>`, `<C-w>`, `<C-u>`  
+Tip 14. [Get Back to Normal Mode](tip14.md): `<Esc>`, `<C-[>`, `<C-o>`, `zz`  
+Tip 15. [Paste from a Register Without Leaving Insert Mode](tip15.md): `yt,`, `<C-r>0`  
+Tip 16. [Do Back-of-the-Envelope Calculations in Place](tip16.md): `<C-r>=`  
+Tip 17. [Insert Unusual Characters by Character Code](tip17.md): `ga`, `<C-v>`, `<C-k`  
+Tip 18. [Insert Unusual Characters by Digraph](tip18.md): `<C-k>{char1}{char2}`  
+Tip 19. [Overwrite Existing Text with Replace Mode](tip19.md): `R`, `gR`, `r`, `gr`  
 ##4. Visual Mode
 Tip 20. Grok Visual Mode  
 Tip 21. Define a Visual Selection  
