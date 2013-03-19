@@ -2,7 +2,7 @@
   
 **digraph**: pairs of characters that are easy to remember.  
   
-##&lt;C-k&gt{char1}{char2}  
+##&lt;C-k&gt;{char1}{char2}  
 >From Insert mode, use the digraphs, like: `<C-k>?I`-->'¿'  
   
 **&lt;&lt;**	&lt;&lt;  
