@@ -15,7 +15,8 @@ Running `j.`:
 ![tip23_1_1](images/tip23_1_1.png)  
   
 #Tip:  
->The Visual mode `U` command has a Normal mode equivalent: `gU{motion}`  
+>The Visual mode `U` command has a Normal mode equivalent: `gU{motion}`    
+
 #Discussion  
 >`vitU` can be considered as two separate commands: `vit` to make a selection and `U` to transform the selection.  
 >`gUit` can be considered as a single command comprise of a operator `gU` and a motion `it`.  
