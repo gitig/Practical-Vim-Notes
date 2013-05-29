@@ -1,8 +1,8 @@
 #Tip24: Edit Tabular Data with Visual-Block Mode  
   
 ##<C-v>3j  
->`<C-v>`: to engage Visual-Block mode;  
->then we define the column selection by moving our cursor down several lines  
+>`<C-v>`: to engage Visual-Block mode; then we define the column selection by moving our cursor down several lines  
+
 ##x...  
 >`x` key deletes that column, `.` repeats the deletion for the same range of text.  
   
