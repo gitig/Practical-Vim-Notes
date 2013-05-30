@@ -29,13 +29,13 @@ Tip 17. [Insert Unusual Characters by Character Code](tip17.md): `ga`, `<C-v>`, 
 Tip 18. [Insert Unusual Characters by Digraph](tip18.md): `<C-k>{char1}{char2}`  
 Tip 19. [Overwrite Existing Text with Replace Mode](tip19.md): `R`, `gR`, `r`, `gr`  
 ##4. Visual Mode
-Tip 20. Grok Visual Mode  
-Tip 21. Define a Visual Selection  
-Tip 22. Repeat Line-Wise Visual Commands  
-Tip 23. Prefer Operators to Visual Commands Where Possible  
-Tip 24. Edit Tabular Data with Visual-Block Mode  
-Tip 25. Change Columns of Text  
-Tip 26. Append After a Ragged Visual Block  
+Tip 20. [Grok Visual Mode](tip20.md): `viw`, `c`
+Tip 21. [Define a Visual Selection](tip21.md): `v`, `V`, `<C-v>`, `gv`, `o`, `e`
+Tip 22. [Repeat Line-Wise Visual Commands](tip22.md): `<`, `>`
+Tip 23. [Prefer Operators to Visual Commands Where Possible](tip23.md): `vit`, `U`
+Tip 24. [Edit Tabular Data with Visual-Block Mode](tip24.md): `3j`, `r`, `yyp`
+Tip 25. [Change Columns of Text](tip25.md): 
+Tip 26. [Append After a Ragged Visual Block](tip26.md): `$`
 ##5. Command-Line Mode
 Tip 27. Meet Vim’s Command Line  
 Tip 28. Execute a Command on One or More Consecutive Lines  
