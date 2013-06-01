@@ -8,7 +8,7 @@
 >move cursor to the specified line.  
   
 ##:$  
->move cursor to the end of the file.  
+>move cursor to the end line of the file.  
   
 ##:3p  
 >move cursor to line 3 and echo the content of that line.  
@@ -37,6 +37,7 @@
   
 ##'&lt;  
 >standing for the first line of the visual selection.  
+
 ##'&gt;  
 >standing for the last line of the visual selection.  
   
@@ -49,8 +50,8 @@
 >if `n` is omitted, it defaults to 1.  
   
 ##:2 && :.,.+3p
->equals to `:2,5p  
-`
+>equals to `:2,5p`  
+
 ![tip28_2](images/tip28_2.png)  
   
 #[<<Tip27](tip27.md) [Tip29>>](tip29.md)
