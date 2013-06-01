@@ -8,14 +8,14 @@
 ##:h ex-cmd-index  
 >command list  
   
-##:<<C-w>> <<C-u>> (Insert || Command-Line)  
->delete backward to the start of the **previous word**  
+##:&lt;C-w&gt; &lt;C-u&gt; (Insert || Command-Line)  
+>delete backward to the strong1art of the **previous word**  
 >delete backward to the start of the **line**  
   
-##:<<C-v>> <<C-k>>  
+##:&lt;C-v&gt; &lt;C-k&gt;  
 >insert characters that are not found on the keyboard.  
   
-##:<<C-r>>{register}  
+##:&lt;C-r&gt;{register}  
 >insert thate contents of any register at the command line.  
   
 #[<<Tip26](tip26.md) [Tip28>>](tip28.md)
