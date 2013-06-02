@@ -1,4 +1,4 @@
-#Tip29:Duplicate or Move Lines Using ':t' and ':m' Commands  
+#Tip29: Duplicate or Move Lines Using ':t' and ':m' Commands  
   
 ![tip29_1](images/tip29_1.png)  
   
@@ -23,4 +23,4 @@ Note: `:t.`, `yyp`: duplicate the current line. but:
 >`G`: to jump to the end of the file.  
 >`p`: to paste the text that was deleted.  
   
-#[<<Tip28](tip28.md) [Tip30>>](tip30.md)
+#[Tip28](tip28.md) [Tip30](tip30.md)

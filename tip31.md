@@ -1,4 +1,4 @@
-#Tip31:Repeat the Last Ex Command  
+#Tip31: Repeat the Last Ex Command  
   
 ##:@:  
 >repeat the last Ex command.  
@@ -16,4 +16,4 @@
 >each time `:bnext` will adds a record to the jump list.  
 >`<C-o>` goes back to the previous record in the jump list.  
   
-#[<<Tip30](tip30.md) [Tip32>>](tip32.md)
+#[Tip30](tip30.md) [Tip32](tip32.md)

@@ -1,4 +1,4 @@
-#Tip30:Run Normal Mode Commands Across a Range  
+#Tip30: Run Normal Mode Commands Across a Range  
   
 ##:normal  
 >run a Normal mode command on a series of consecutive lines.  
@@ -15,4 +15,4 @@ Note: we can use :normal to execute any Normal mode commands.
 ##:%normal i//  
 >comment out an entire file.  
   
-#[<<Tip29](tip29.md) [Tip31>>](tip31.md)
+#[Tip29](tip29.md) [Tip31](tip31.md)

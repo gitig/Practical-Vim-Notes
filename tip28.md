@@ -1,4 +1,4 @@
-#Tip28:Execute a Command on One or More Consecutive Lines  
+#Tip28: Execute a Command on One or More Consecutive Lines  
     
 ![tip28_1](images/tip28_1.png)  
 ##:print  
@@ -54,4 +54,4 @@
 
 ![tip28_2](images/tip28_2.png)  
   
-#[<<Tip27](tip27.md) [Tip29>>](tip29.md)
+#[Tip27](tip27.md) [Tip29](tip29.md)

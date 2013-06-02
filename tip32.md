@@ -14,5 +14,4 @@
 ##scroll backward  
 >`<S-Tab>`, `<C-p>`, `<Left>`  
   
-#[<<Tip31](tip31.md) [Tip33>>](tip33.md)
-
+#[Tip31](tip31.md) [Tip33](tip33.md)

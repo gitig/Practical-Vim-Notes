@@ -40,4 +40,3 @@ Press &lt;CR&gt; to execute the `:update | !ruby %` command.
 ![tip34_2](images/tip34_2.png)  
       
 #[Tip33](tip33.md) [Tip35](tip35.md)
-

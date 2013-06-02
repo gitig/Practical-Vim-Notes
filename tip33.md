@@ -12,4 +12,4 @@
 ##:%s//&lt;C-r&gt;&lt;C-w&gt;/g  
 >replace the others.  
   
-#[<<Tip32](tip32.md) [Tip34>>](tip34.md)
+#[Tip32](tip32.md) [Tip34](tip34.md)
