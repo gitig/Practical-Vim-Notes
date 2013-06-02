@@ -1,4 +1,4 @@
-#Tip23:Prefer Operators to Visual Commands Where Possible  
+#Tip23: Prefer Operators to Visual Commands Where Possible  
 
 note: Visual mode may be more intuitive than Vim's Normal mode of operation, but it has a weakness: it doesn't always play well with the dot command.  
   
@@ -24,4 +24,4 @@ Running `j.`:
 ![tip23_2](images/tip23_2.png)  
 ##So, we should prefer operator commands over their equivalents when working through a repetitive set of changes.  
 
-#[<<Tip22](tip22.md) [Tip24>>](tip24.md)
+#[Tip22](tip22.md) [Tip24](tip24.md)

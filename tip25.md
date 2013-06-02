@@ -1,4 +1,4 @@
-#Tip25:Change Columns of Text  
+#Tip25: Change Columns of Text  
   
 note: images => components  
   
@@ -10,4 +10,4 @@ note: images => components
   
 ![tip25](images/tip25.png)  
   
-#[<<Tip24](tip24.md) [Tip26>>](tip26.md)
+#[Tip24](tip24.md) [Tip26](tip26.md)

@@ -1,4 +1,4 @@
-#Tip27:Meet Vim's Command Line  
+#Tip27: Meet Vim's Command Line  
   
 ##:  
 >switch into Command-Line mode.  
@@ -18,4 +18,5 @@
 ##:&lt;C-r&gt;{register}  
 >insert thate contents of any register at the command line.  
   
-#[<<Tip26](tip26.md) [Tip28>>](tip28.md)
+
+#[Tip26](tip26.md) [Tip28](tip28.md)

@@ -7,4 +7,4 @@
 >These commands works well with VIM and bash shell.  
   
 
-#[<<Tip12](tip12.md) [Tip14>>](tip14.md)  
+#[Tip12](tip12.md) [Tip14](tip14.md)  

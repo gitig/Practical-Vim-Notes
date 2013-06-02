@@ -18,4 +18,4 @@
 #Toggling the Free End of a Selection  
 ![tip21_2](images/tip21_2.png)  
 
-#[<<Tip20](tip20.md) [Tip22>>](tip22.md)
+#[Tip20](tip20.md) [Tip22](tip22.md)

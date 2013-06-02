@@ -8,5 +8,5 @@
 ##&lt;C-r&gt;0  
 >`<C-r>{register}`: paste the text that we just yanked at the current cursor position; `<C-r><C-p>{register}`: insert text literally and fix any unintended indentation.  
   
-#[<<Tip14](tip14.md) [Tip16>>](tip16.md)  
+#[Tip14](tip14.md) [Tip16](tip16.md)  
 

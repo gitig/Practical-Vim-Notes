@@ -11,4 +11,4 @@
   
 ![tip17](images/tip17.png)  
   
-#[<<Tip16](tip16.md) [Tip18>>](tip18.md)
+#[Tip16](tip16.md) [Tip18](tip18.md)

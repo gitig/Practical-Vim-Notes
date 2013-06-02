@@ -22,4 +22,4 @@ So, `d7w` == `dw......`
   
 #Take the part you feel GOOD!  
   
-#[<<Tip10](tip10.md) [Tip12>>](tip12.md)
+#[Tip10](tip10.md) [Tip12](tip12.md)

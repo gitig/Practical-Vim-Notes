@@ -15,4 +15,4 @@
 ##r{char}, gr{char}  
 >overwrite a single character in **Replace** mode and **Virtual Replace** mode.  
   
-#[<<Tip18](tip18.md) [Tip20>>](tip20.md)
+#[Tip18](tip18.md) [Tip20](tip20.md)

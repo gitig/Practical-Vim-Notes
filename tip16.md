@@ -5,5 +5,5 @@
   
 ![tip16](images/tip16.png)  
   
-#[<<Tip15](tip15.md) [Tip17>>](tip17.md)
+#[Tip15](tip15.md) [Tip17](tip17.md)
 

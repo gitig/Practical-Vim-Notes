@@ -9,4 +9,4 @@
 **&gt;&gt;**	&gt;&gt;  
 **½,¼,¾**		12, 14, 34  
   
-#[<<Tip17](tip17.md) [Tip19>>](tip19.md)
+#[Tip17](tip17.md) [Tip19](tip19.md)
