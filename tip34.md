@@ -24,8 +24,8 @@ Note: By default, Vim records the last twenty commands, you can set by : `set hi
   
 Note: Avoid the Cursor Keys When Recalling Commands from History.  
 you can create the mapping:  
->cnoremap <C-p> <Up>  
->cnoremap <C-n> <Down>  
+>cnoremap &lt;C-p&gt; &lt;Up&gt;  
+>cnoremap &lt;C-n&gt; &lt;Down&gt;  
   
 ##q: (Normal mode)  
 >meet the command-line window.   
