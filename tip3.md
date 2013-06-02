@@ -11,4 +11,4 @@
    
 #Example  
 ![tip3](images/tip3.png)  
-#[<<Tip2](tip2.md)    [Tip4>>](tip4.md)
+#[Tip2](tip2.md)    [Tip4](tip4.md)

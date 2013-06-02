@@ -30,4 +30,4 @@
 #Example:  
 ![tip1](images/tip1.png)
   
-#[<<Contents](README.md) [Tip2>>](tip2.md)
+#[Contents](README.md) [Tip2](tip2.md)

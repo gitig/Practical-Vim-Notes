@@ -11,6 +11,8 @@ Tip 4. [Act, Repeat, Reverse](tip4.md): `F{char}/T{char}`, `/pattern<CR>`, `:s/t
 Tip 5. [Find and Replace by Hand](tip5.md): `/target`, `*`, `*nn`, `cw`  
 Tip 6. [Meet the Dot Formula](tip6.md): **One key to move, One key to execute**
 
+
+
 Part I — Modes  
 ##2. Normal Mode  
 Tip 7. [Pause with Your Brush Off the Page](tip7.md)  
@@ -19,7 +21,6 @@ Tip 9. [Compose Repeatable Changes](tip9.md): `db`, `b`, `dw`, `daw`
 Tip 10. [Use Counts to Do Simple Arithmetic](tip10.md): `<C-a>`, `<C-x>`, `yyp`, `cw`, `cW`  
 Tip 11. [Don’t Count If You Can Repeat](tip11.md): `d2w/W`, `2dw/W`, `dw.`  
 Tip 12. [Combine and Conquer](tip12.md): `gu`, `gU`, `y`, `d`, `c`, `=`  
-										    
 ##3. Insert Mode  
 Tip 13. [Make Corrections Instantly from Insert Mode](tip13.md): `<C-h>`, `<C-w>`, `<C-u>`  
 Tip 14. [Get Back to Normal Mode](tip14.md): `<Esc>`, `<C-[>`, `<C-o>`, `zz`  
@@ -37,15 +38,18 @@ Tip 24. [Edit Tabular Data with Visual-Block Mode](tip24.md): `3j`, `r`, `yyp`
 Tip 25. [Change Columns of Text](tip25.md):   
 Tip 26. [Append After a Ragged Visual Block](tip26.md): `$`  
 ##5. Command-Line Mode
-Tip 27. Meet Vim’s Command Line  
-Tip 28. Execute a Command on One or More Consecutive Lines  
-Tip 29. Duplicate or Move Lines Using ‘:t’ and ‘:m’ Commands  
-Tip 30. Run Normal Mode Commands Across a Range  
-Tip 31. Repeat the Last Ex Command  
-Tip 32. Tab-Complete Your Ex Commands  
-Tip 33. Insert the Current Word at the Command Prompt  
-Tip 34. Recall Commands from History  
-Tip 35. Run Commands in the Shell  
+Tip 27. [Meet Vim’s Command Line](tip27.md): `:`, `<C-w><C-u>`, `<C-v><C-k>`, `<C-r>{register}`  
+Tip 28. [Execute a Command on One or More Consecutive Lines](tip28.md): `:print`, `:digit`, `:$`, `:3p`, `:3d`, `:2,5p`, `.`, `:%p`, `:%s/old/new/`, `'<`, `'>`, `:/<html>/,/<\/html>/p`  
+Tip 29. [Duplicate or Move Lines Using ‘:t’ and ‘:m’ Commands](tip29.md): `:copy :co :t`, `:move :m`, `dGp`  
+Tip 30. [Run Normal Mode Commands Across a Range](tip30.md): `:normal`, `%normal A;`, `%normal i//`  
+Tip 31. [Repeat the Last Ex Command](tip31.md): `:@:`, `:@@`, `:bn[ext]`, `:bp[revious]`, `<C-o>`  
+Tip 32. [Tab-Complete Your Ex Commands](tip32.md): `:col<C-d>`  
+Tip 33. [Insert the Current Word at the Command Prompt](tip33.md): `<C-r><C-w>`  
+Tip 34. [Recall Commands from History](tip34.md): `q:`, `<C-f>`  
+Tip 35. [Run Commands in the Shell](tip35.md): `:!ls`, `:ls`, `:!ruby %`, `:shell`, `<C-z>`, `jobs`, `fg`, `:read !{cmd}`, `:write !{cmd}`, `:[range]!{cmd/filter}`, `:2,$!sort -t',' -k2`, `!{motion}`, `!G`  
+
+
+
 Part II — Files  
 ##6. Manage Multiple Files
 Tip 36. Track Open Files with the Buffer List  

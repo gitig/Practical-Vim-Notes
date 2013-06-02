@@ -31,7 +31,7 @@
   
 **Using the Contents of a Buffer for Standard Input or Output**  
   
-##:read !{comd}  
+##:read !{cmd}  
 >put the output from the {cmd} into our current buffer.  
   
 ##:write !{cmd}  

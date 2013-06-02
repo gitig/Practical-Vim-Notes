@@ -28,4 +28,4 @@
 >delete the current word and also delete a whitespace character.  
 **comment**: dot repeats the instruction to delete a word. `.` == `daw`  
   
-#[<<Tip8](tip8.md)  [Tip10>>](tip10.md)
+#[Tip8](tip8.md)  [Tip10](tip10.md)

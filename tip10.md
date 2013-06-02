@@ -29,4 +29,4 @@ But what happens if the cursor is not positioned on a numeric digit? The documen
 `set nrformats=`  
 This will cause Vim to treat all numerals as decimal, regardless of whether they are padded with zeros.  
   
-#[<<Tip9](tip9.md) [Tip11>>](tip11.md)
+#[Tip9](tip9.md) [Tip11](tip11.md)
