@@ -57,11 +57,14 @@ Tip 38. [Manage Hidden Files](tip38.md): `:wirte`, `:edit!`, `qall!`, `:wall`,
 Tip 39. [Divide Your Workspace into Split Windows](tip39.md): `<C-w>s`, `<C-w>v`, `:edit`, `:close`, `:only`  
 Tip 40. [Organize Your Window Layouts with Tab Pages](tip40.md): `:lcd{path}`, `:tabe[dit] {filename}`, `:tabmove [N]`  
 ##7. Open Files and Save Them to Disk
-Tip 41. Open a File by Its Filepath Using ‘:edit’  
-Tip 42. Open a File by Its Filename Using ‘:find’  
-Tip 43. Explore the File System with netrw  
-Tip 44. Save Files to Nonexistent Directories   
-Tip 45. Save a File as the Super User   
+Tip 41. [Open a File by Its Filepath Using ':edit'](tip41.md): `:edit %<Tab>`, `:edit %:h<Tab>`  
+Tip 42. [Open a File by Its Filename Using ':find'](tip42.md): `:find`, `:set path+=app/**`  
+Tip 43. [Explore the File System with netrw](tip43.md): `:edit .`, `:e.`, `:Explore`, `:E.`  
+Tip 44. [Save Files to Nonexistent Directories](tip44.md): `<C-g>`, `:!mkdir -p %:h`  
+Tip 45. [Save a File as the Super User](tip45.md): `:w !sudo tee % > /dev/null`  
+  
+  
+  
 Part III — Getting Around Faster  
 ##8. Navigate Inside Files with Motions
 Tip 46. Keep Your Fingers on the Home Row   
