@@ -49,14 +49,13 @@ Tip 34. [Recall Commands from History](tip34.md): `q:`, `<C-f>`
 Tip 35. [Run Commands in the Shell](tip35.md): `:!ls`, `:ls`, `:!ruby %`, `:shell`, `<C-z>`, `jobs`, `fg`, `:read !{cmd}`, `:write !{cmd}`, `:[range]!{cmd/filter}`, `:2,$!sort -t',' -k2`, `!{motion}`, `!G`  
 
 
-
 Part II — Files  
 ##6. Manage Multiple Files
-Tip 36. Track Open Files with the Buffer List  
-Tip 37. Group Buffers into a Collection with the Argument List  
-Tip 38. Manage Hidden Files  
-Tip 39. Divide Your Workspace into Split Windows  
-Tip 40. Organize Your Window Layouts with Tab Pages  
+Tip 36. [Track Open Files with the Buffer List](tip36.md): `:bnext`, `:ls`, `<C-^>`, `:bprev`, `:bfirst`, `:blast`, `:buffer N`, `:buffer {bufname}`, `:bufdo`, `:argdo`, `:bd[elete]`  
+Tip 37. [Group Buffers into a Collection with the Argument List](tip37.md): `:args {arglist}`  
+Tip 38. [Manage Hidden Files](tip38.md): `:wirte`, `:edit!`, `qall!`, `:wall`,  
+Tip 39. [Divide Your Workspace into Split Windows](tip39.md): `<C-w>s`, `<C-w>v`, `:edit`, `:close`, `:only`  
+Tip 40. [Organize Your Window Layouts with Tab Pages](tip40.md): `:lcd{path}`, `:tabe[dit] {filename}`, `:tabmove [N]`  
 ##7. Open Files and Save Them to Disk
 Tip 41. Open a File by Its Filepath Using ‘:edit’  
 Tip 42. Open a File by Its Filename Using ‘:find’  
