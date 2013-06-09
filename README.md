@@ -67,21 +67,24 @@ Tip 45. [Save a File as the Super User](tip45.md): `:w !sudo tee % > /dev/null`
   
 Part III — Getting Around Faster  
 ##8. Navigate Inside Files with Motions
-Tip 46. Keep Your Fingers on the Home Row   
-Tip 47. Distinguish Between Real Lines and Display Lines   
-Tip 48. Move Word-Wise   
-Tip 49. Find by Character   
-Tip 50. Search to Navigate   
-Tip 51. Trace Your Selection with Precision Text Objects   
-Tip 52. Delete Around, or Change Inside   
-Tip 53. Mark Your Place and Snap Back to It   
-Tip 54. Jump Between Matching Parentheses   
+Tip 46. [Keep Your Fingers on the Home Row](tip46.md): `h,j,k,l`  
+Tip 47. [Distinguish Between Real Lines and Display Lines](tip47.md): `gj`, `gk`, `g0`, `g$`, `g^`  
+Tip 48. [Move Word-Wise](tip48.md): `w`, `b`, `e`, `ge`, `ea`, `gea`, `W`, `cW`  
+Tip 49. [Find by Character](tip49.md): `f{char}`, `;`, `,`, `F{char}`, `t{char}`, `T{char}`, `dt.`  
+Tip 50. [Search to Navigate](tip50.md): `/{char}`, `n`, `N`  
+Tip 51. [Trace Your Selection with Precision Text Objects](tip51.md): `vi}`, `a"`, `i"`, `at`, `it`  
+Tip 52. [Delete Around, or Change Inside](tip52.md): `iw`, `iW`, `is`, `ip`, `aw`, `aW`, `as`, `ap`  
+Tip 53. [Mark Your Place and Snap Back to It](tip53.md): `m{a-zA-Z}`, `'{mark}`  
+Tip 54. [Jump Between Matching Parentheses](tip54.md): `%`, `S"`  
 ##9. Navigate Between Files with Jumps
-Tip 55. Traverse the Jump List   
-Tip 56. Traverse the Change List   
-Tip 57. Jump to the Filename Under the Cursor   
-Tip 58. Snap Between Files Using Global Marks   
-Part IV — Registers  
+Tip 55. [Traverse the Jump List](tip55.md): `<C-o>`, `<C-i>`  
+Tip 56. [Traverse the Change List](tip56.md): `:changes`, **`.**, **`^**  
+Tip 57. [Jump to the Filename Under the Cursor](tip57.md): `gf`  
+Tip 58. [Snap Between Files Using Global Marks](tip58.md): `:vimgrep`  
+  
+  
+  
+Part IV — Registers
 ##10. Copy and Paste
 Tip 59. Delete, Yank, and Put with Vim’s Unnamed Register   
 Tip 60. Grok Vim’s Registers   
