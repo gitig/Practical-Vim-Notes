@@ -40,6 +40,6 @@ In Vim's terminology, we don't deal with a clipboard but instead with **register
 ##diw  
 >in this case, overwrite the contents of the unnamed register.  
   
-![tip59_4](images/tip59_4)  
+![tip59_4](images/tip59_4.png)  
   
 #[Tip58](tip58.md) [Tip60](tip60.md)
