@@ -39,6 +39,7 @@ We've changed four files, but we haven't saved any of them.
   
 ##:wall  
 >save all files in the buffer list, quicker to save all files.  
+  
 ##:wnext  
 >:write followed by :next  
   
