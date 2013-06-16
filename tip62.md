@@ -22,9 +22,10 @@ In the first case we would use `p`, whereas in the second case we would use `P`.
 **Pasting Line-Wise Regions**  
 ##p P  
 >put the text **before** or **after** the current line.  
+  
 ##gp gP  
->but they leave the cursor positioned **at the end** of the pasted text instead of at the **beginning**.  
 >put the text **below** or **above** the current line.  
+>but they leave the cursor positioned **at the end** of the pasted text instead of at the **beginning**.  
   
 ![tip62_3](images/tip62_3.png)  
   
