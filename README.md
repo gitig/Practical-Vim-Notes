@@ -86,7 +86,7 @@ Tip 58. [Snap Between Files Using Global Marks](tip58.md): `:vimgrep`
   
 Part IV — Registers
 ##10. Copy and Paste
-Tip 59. [Delete, Yank, and Put with Vim’s Unnamed Register](tip.59.md): `x`, `p`, `xp`, `dd`, `ddp`, `yyp`, `P`, `diw` 
+Tip 59. [Delete, Yank, and Put with Vim’s Unnamed Register](tip.59.md): `x`, `p`, `xp`, `dd`, `ddp`, `yyp`, `P`, `diw`  
 Tip 60. [Grok Vim’s Registers](tip.60.md): `"{register}`, `"ayiw`, `"bdd`, `"ap`, `"bp`, `:delete c`, `:put c`, `""p`, `"0P`, `:reg "0`, `"_d{motion}`, `"+`, `"+p <C-r>+`  
 Tip 61. [Replace a Visual Selection with a Register](tip.61.md): `m{char}`, ``{char}`  
 Tip 62. [Paste from a Register](tip.62.md): `<C-r>{register}`, `p`, `P`, `gp`, `gP`  
