@@ -91,6 +91,9 @@ Tip 60. [Grok Vim’s Registers](tip.60.md): `"{register}`, `"ayiw`, `"bdd`, `"a
 Tip 61. [Replace a Visual Selection with a Register](tip.61.md): `m{char}`, ``{char}`
 Tip 62. [Paste from a Register](tip.62.md): `<C-r>{register}`, `p`, `P`, `gp`, `gP`
 Tip 63. [Interact with the System Clipboard](tip.63.md): `:set pastetoggle=<f5>`
+
+
+
 ##11. Macros
 Tip 64. [Record and Execute a Macro](tip.64.md): `q`, `q{register}`, `:reg a`, `@{register}`, `@@`
 Tip 65. [Normalize, Strike, Abort](tip.65.md): `number@a`
