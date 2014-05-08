@@ -86,23 +86,23 @@ Tip 58. [Snap Between Files Using Global Marks](tip58.md): `:vimgrep`
   
 Part IV — Registers
 ##10. Copy and Paste
-Tip 59. [Delete, Yank, and Put with Vim’s Unnamed Register](tip.59.md): `x`, `p`, `xp`, `dd`, `ddp`, `yyp`, `P`, `diw`
-Tip 60. [Grok Vim’s Registers](tip.60.md): `"{register}`, `"ayiw`, `"bdd`, `"ap`, `"bp`, `:delete c`, `:put c`, `""p`, `"0P`, `:reg "0`, `"_d{motion}`, `"+`, `"+p <C-r>+`
-Tip 61. [Replace a Visual Selection with a Register](tip.61.md): `m{char}`, ``{char}`
-Tip 62. [Paste from a Register](tip.62.md): `<C-r>{register}`, `p`, `P`, `gp`, `gP`
-Tip 63. [Interact with the System Clipboard](tip.63.md): `:set pastetoggle=<f5>`
+Tip 59. [Delete, Yank, and Put with Vim’s Unnamed Register](tip.59.md): `x`, `p`, `xp`, `dd`, `ddp`, `yyp`, `P`, `diw` 
+Tip 60. [Grok Vim’s Registers](tip.60.md): `"{register}`, `"ayiw`, `"bdd`, `"ap`, `"bp`, `:delete c`, `:put c`, `""p`, `"0P`, `:reg "0`, `"_d{motion}`, `"+`, `"+p <C-r>+`  
+Tip 61. [Replace a Visual Selection with a Register](tip.61.md): `m{char}`, ``{char}`  
+Tip 62. [Paste from a Register](tip.62.md): `<C-r>{register}`, `p`, `P`, `gp`, `gP`  
+Tip 63. [Interact with the System Clipboard](tip.63.md): `:set pastetoggle=<f5>`  
 
 
 
 ##11. Macros
-Tip 64. [Record and Execute a Macro](tip.64.md): `q`, `q{register}`, `:reg a`, `@{register}`, `@@`
-Tip 65. [Normalize, Strike, Abort](tip.65.md): `number@a`
-Tip 66. [Play Back with a Count](tip.66.md): `qq;.q`
-Tip 67. [Repeat a Change on Contiguous Lines](tip.67.md): `0`, `:normal @a`
-Tip 68. [Append Commands to a Macro](tip.68.md): `qa`, `qA`
-Tip 69. [Act Upon a Collection of Files](tip.69.md): `gg/class<CR>`, `:argdo`, `:edit!`, `:argdo normal @a`, `:argdo write`, `:wall`, `:wnext`
-Tip 70. [Evaluate an Iterator to Number Items in a List](tip.70.md): `:let i=0`, `:echo i`, `<C-r>=i<CR>`
-Tip 71. [Edit the Contents of a Macro](tip.71.md): `~`, `vU`, `:put a`
+Tip 64. [Record and Execute a Macro](tip.64.md): `q`, `q{register}`, `:reg a`, `@{register}`, `@@`  
+Tip 65. [Normalize, Strike, Abort](tip.65.md): `number@a`  
+Tip 66. [Play Back with a Count](tip.66.md): `qq;.q`  
+Tip 67. [Repeat a Change on Contiguous Lines](tip.67.md): `0`, `:normal @a`  
+Tip 68. [Append Commands to a Macro](tip.68.md): `qa`, `qA`  
+Tip 69. [Act Upon a Collection of Files](tip.69.md): `gg/class<CR>`, `:argdo`, `:edit!`, `:argdo normal @a`, `:argdo write`, `:wall`, `:wnext`  
+Tip 70. [Evaluate an Iterator to Number Items in a List](tip.70.md): `:let i=0`, `:echo i`, `<C-r>=i<CR>`  
+Tip 71. [Edit the Contents of a Macro](tip.71.md): `~`, `vU`, `:put a`  
 
 
 
