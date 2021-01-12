@@ -1,4 +1,4 @@
-#Tip64: Record and Execute a Macro  
+# Tip64: Record and Execute a Macro  
   
 Vim offers more than one way to repeat changes. Dot and Macros.  
 >dot is useful for repeating small changes.  
@@ -14,27 +14,27 @@ Macros allow us to record a sequence of changes and then play them back.
 Many repetitive tasks involve making multiple changes. If we want to automate these, we can record a macro and then execute it.  
   
 **Capture a Sequence of Commands by Recording a Macro**  
-##q  
+## q  
 >q key functions both as the "record" button and the "stop" button.  
   
-##q{register}  
+## q{register}  
 >begin recording our keystrokes, giving the address of the register where we want to save the macro.  
   
-##qa  
+## qa  
 >begins recording and saves our macro into register a.  
 >Then we make changes on the first line: ; var  
 >press `q` to stop recording our macro.  
   
-##:reg a  
+## :reg a  
 >inspect the contents of register a.  
   
 ![tip64_1](images/tip64_1.png)  
   
 **Play Back a Sequence of Commands by Executing a Macro**  
-##@{register}  
+## @{register}  
 >executes the contents of the specified register.  
   
-##@@  
+## @@  
 >repeats the macro that was invoked most recently.  
   
 ![tip64_2](images/tip64_2.png)  
@@ -45,6 +45,6 @@ Many repetitive tasks involve making multiple changes. If we want to automate th
   
 Under the hood, Vim always executes macros **sequentially**, no matter which of these two techniques we use. The term in parallel is intended to draw an analogy with the robustness of parallel circuits. It is not meant to suggest that Vim executes multiple changes concurrently.  
   
-#[Tip63](tip63.md) [Tip65](tip65.md)
+# [Tip63](tip63.md) [Tip65](tip65.md)
 
 

@@ -1,4 +1,4 @@
-#Tip36: Track Open Files with the Buffer List  
+# Tip36: Track Open Files with the Buffer List  
   
 We can load multiple files during an editing session. Vim lets us manage them using the **buffer list**.  
   
@@ -43,19 +43,19 @@ Traverse the buffer list:
 >`:bfirst`: jump to the start of the list  
 >`:blast`: jump to the end of the list  
   
-##:buffer N  
+## :buffer N  
 >jump directly to a buffer by number. because `:ls` listing starts with a digit, which is assigned to each buffer automatically on creation.  
   
-##:buffer {bufname}  
+## :buffer {bufname}  
 >{bufname} need only contain enough characters from the filepath to uniquely identify the buffer.  
   
-##:bufdo :argdo  
+## :bufdo :argdo  
 >execute an Ex command in all of the buffers listed by `:ls`.  
   
   
 **Deleting Buffers**  
   
-##:bd[elete]  
+## :bd[elete]  
 >`:bdelete N1 N2 N3`:  `:bd 5 6 7`  
 >`:N,M bdelete`: `:5,10bd`  
 Note: deleting a buffer has no effect on its associated file. it simply removes the in-memory representation.  
@@ -64,4 +64,4 @@ Buffer numbers are automatically assigned by Vim, and we have no means of changi
   
 Note: Vim's built-in controls for managing the buffer list lack flexibility. If we want to arrange buffers in a way that makes sense for our workflow, attempting to organize the buffer list is not the way to go. Instead, we're better off dividing our workspace using **split windows**, **tab pages**, or the **argument list**.  
   
-#[Tip35](tip35.md) [Tip37](tip37.md)
+# [Tip35](tip35.md) [Tip37](tip37.md)

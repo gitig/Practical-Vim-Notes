@@ -1,15 +1,15 @@
-#Tip51: Trace Your Selection with Precision Text Objects  
+# Tip51: Trace Your Selection with Precision Text Objects  
   
-##Text Objects  
+## Text Objects  
 >define regions of text by structure. It allow us to operate on the regions of text that they delimit.  
   
 ![tip51_1](images/tip51_1.png)  
   
-##vi}  
+## vi}  
 >Vim initiates Visual mode and then selects all of the characters contained by the {} braces.  
 >Where the cursor is positioned to begin with doesn't matter so long as it's located somewhere inside a block of curly braces when the `i}` text object is invoked.  
   
-##a"  
+## a"  
 >selects a range of characters delimited by double quotes.  
   
 >`i`: select **inside** the delimiters.(inside)  
@@ -30,4 +30,4 @@ Note:
 >`yit`: yank the text from inside the tag.  
 >`dit`: delete the text from inside the tag.  
   
-#[Tip50](tip50.md) [Tip52](tip52.md)
+# [Tip50](tip50.md) [Tip52](tip52.md)

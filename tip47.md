@@ -1,4 +1,4 @@
-#Tip47: Distinguish Between Real Line and Display Lines  
+# Tip47: Distinguish Between Real Line and Display Lines  
   
 A single line in the file may be represented by multiple lines on the display.  
   
@@ -10,4 +10,4 @@ A single line in the file may be represented by multiple lines on the display.
 `j, k, 0, $`: interact with real lines.  
 `g`: tell vim to act on display lines instead.  
   
-#[Tip46](tip46.md) [Tip48](tip48.md)
+# [Tip46](tip46.md) [Tip48](tip48.md)

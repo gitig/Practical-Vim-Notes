@@ -1,4 +1,4 @@
-#Tip61: Replace a Visual Selection with a Register  
+# Tip61: Replace a Visual Selection with a Register  
   
 ![tip61_1](images/tip61_1.png)  
   
@@ -15,4 +15,4 @@ When we use the `p` command in Visual mode, Vim **replace the selection** with t
   
 Note: `m{char}`command sets a mark, and the `{char} command jumps to the mark.  
   
-#[Tip60](tip60.md) [Tip62](tip62.md)
+# [Tip60](tip60.md) [Tip62](tip62.md)

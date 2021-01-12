@@ -1,8 +1,8 @@
-#Tip60: Grok Vim's Registers  
+# Tip60: Grok Vim's Registers  
 Rather than using a single clipboard for all cut, copy and paste operations, Vim provides **multiple registers**. When we use the delete, yank, and put commands, we can specify which register we want to interact with.  
   
 **Addressing a Register**  
-##"{register}  
+## "{register}  
 >specify which register we want to use by prefixing the command with `"{register}`. If we don't specify a register, then Vim will use the **unnamed register**.  
   
 **Vim's Terminology Versus the World**  
@@ -12,29 +12,29 @@ Rather than using a single clipboard for all cut, copy and paste operations, Vim
 >4. Vim's **really deleing text** is `_` special register called the **black hole**, from which nothing returns.  
   
 Normal commands:  
-##"ayiw  
+## "ayiw  
 >yank the current word into register a.  
   
-##"bdd  
+## "bdd  
 >cut the current line into register b.  
   
-##"ap  
+## "ap  
 >paste the word from register a.  
   
-##"bp  
+## "bp  
 >paste the line from register b.  
   
 Ex commands:  
-##:delete c  
+## :delete c  
 >cut the current line into register c.  
   
-##:put c  
+## :put c  
 >paste it below the current line.  
   
 **The Unnamed Register ("")**  
 If we don't specify which register we want to interact with, then Vim will use the **unnamed register**, which is addressed by the " symbol.  
   
-##""p  
+## ""p  
 >to address this register explicitly, use two double quote marks. Which is effectively equivalent to `p`.  
   
 The `x`, `s`, `d{motion}`, `c{motion}`, `y{motion}` commands and their uppercase equivalents all set the contents of the unnamed register. In each case, we can prefix `"{register}` to specify another register, but the unnamed register is the default.  
@@ -46,13 +46,13 @@ The yank register is set **only** when we use the `y{motion}` command, it's not 
   
 ![tip60_1](images/tip60_1.png)  
   
-##diw  
+## diw  
 >overwrites the unnamed register, but it leaves the yank register untouched.  
   
-##"0P  
+## "0P  
 >pastes from the yank register.  
   
-##:reg "0  
+## :reg "0  
 >inspect the contents of the unnamed and yank registers.  
   
 **The Named Registers ("a-"z)**  
@@ -67,7 +67,7 @@ When we address a named register with a:
 **The Black Hole Register("_)**  
 The black hole register is a place from which nothing returns. It's addressed by the **underscore** symbol.  
   
-##"_d{motion}  
+## "_d{motion}  
 >deletes the specified text without saving a copy of it.  
   
 ![tip60_3](images/tip60_3.png)  
@@ -76,10 +76,10 @@ The black hole register is a place from which nothing returns. It's addressed by
 All of the registers that we've discussed so far are internal to Vim.  
 If we want to copy some text from inside of Vim and paste it into an external program, then we have to use one of the system clipboards.  
   
-##"+  
+## "+  
 >Vim's plus register references the system clipboard and is addressed by the + symbol.  
   
-##"+p  &lt;C-r&gt;+  
+## "+p  &lt;C-r&gt;+  
 >cut or copy command to capture text in an external application, you can paste it inside Vim using `"+p` command in Normal mode or `<C-r>+` from the Insert mode.  
   
 ![tip60_4](images/tip60_4.png)  
@@ -99,4 +99,4 @@ Vim provides a handful of registers whose values are set **implicitly**. These a
   
 Technically, the "/ register is not read-only, it can be set explicitly using the `:let` command.  
   
-#[Tip59](tip59.md) [Tip61](tip61.md)
+# [Tip59](tip59.md) [Tip61](tip61.md)

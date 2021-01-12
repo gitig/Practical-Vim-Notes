@@ -1,11 +1,11 @@
-#Tip57: Jump to the Filename Under the Cursor  
+# Tip57: Jump to the Filename Under the Cursor  
   
 **Vim treats filenames in our document as a kind of hyperlink. When configured properly, we can use the `gf` command to go to the filename under the cursor.**  
   
-##gf  
+## gf  
 >go to file  
   
-##:set suffixesadd+=.ext  
+## :set suffixesadd+=.ext  
 >`suffixesadd` option allows us to specify one or more file extensions, which Vim will attempt to use when looking up a filename with the `gf` command.  
   
 **Specify the Directories to Look Inside**  
@@ -16,4 +16,4 @@ We can configure 'path' option to reference a comma-separated list of directorie
 >`.` stands for the directory of the current file.  
 >empty string(delimited by two adjacent commas) stands for the working directory.  
   
-#[Tip56](tip56.md) [Tip58](tip58.md)
+# [Tip56](tip56.md) [Tip58](tip58.md)

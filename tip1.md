@@ -1,33 +1,33 @@
-#Tip1: Meet the Dot Command  
+# Tip1: Meet the Dot Command  
   
-##Dot:    
+## Dot:    
 >repeat the last change.  
   
-##x:  
+## x:  
 >delete the character under the cursor.  
   
-##u:  
+## u:  
 >undo the changes.  
   
-##dd:   
+## dd:   
 >delete current line as a whole.  
   
-##>G:    
+## >G:    
 >increase the indentation from the current line until the end of the file.  
   
-##h,j,k,l:     
+## h,j,k,l:     
 >h:left   
 >j:up    
 >k:down   
 >l:right    
   
-##i:  
+## i:  
 >enter Insert mode  
   
-##Esc:    
+## Esc:    
 >enter Normal mode  
   
-#Example:  
+# Example:  
 ![tip1](images/tip1.png)
   
-#[Contents](README.md) [Tip2](tip2.md)
+# [Contents](README.md) [Tip2](tip2.md)

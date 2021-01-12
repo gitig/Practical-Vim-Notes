@@ -1,6 +1,6 @@
-#Tip54: Jump Between Matching Parentheses  
+# Tip54: Jump Between Matching Parentheses  
   
-##%  
+## %  
 >lets us jump between opening and closing sets of parentheses  
 >it workds with () {} []  
   
@@ -17,10 +17,10 @@ Must enable **matchit** plugin.
 **Surround.vim**  
 ![tip54_3](images/tip54_3.png)  
   
-##S"  
+## S"  
 >surround the selection with a pair of double quote marks.  
   
-##cs}]  
+## cs}]  
 >change surrounding {} braces to [] brackets.  
   
-#[Tip53](tip53.md) [Tip55](tip55.md)
+# [Tip53](tip53.md) [Tip55](tip55.md)

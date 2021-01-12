@@ -1,9 +1,9 @@
-#Tip48: Move Word-Wise  
+# Tip48: Move Word-Wise  
   
-##word  
+## word  
 >consists of a sequence of letters, digits, and underscores, or as a sequence of other nonblank characters separated with whitespace.  
   
-##WORD  
+## WORD  
 >consists of a sequence of nonblank characters separated with whitespace.  
   
 e.g. we're going too slow  
@@ -16,10 +16,10 @@ e.g. we're going too slow
   
 ![tip48_2](images/tip48_2.png)  
   
-##ea  
+## ea  
 >append at the end of the current word.  
   
-##gea  
+## gea  
 >append at the end of the previous word.  
   
   
@@ -28,4 +28,4 @@ e.g. we're going too slow
   
 ![tip48_4](images/tip48_4.png)  
   
-#[Tip47](tip47.md) [Tip49](tip49.md)
+# [Tip47](tip47.md) [Tip49](tip49.md)

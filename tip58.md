@@ -1,4 +1,4 @@
-#Tip58: Snap Between Files Using Global Marks  
+# Tip58: Snap Between Files Using Global Marks  
   
 **A global mark is a kind of bookmark that allows us to jump between files.**  
   
@@ -6,11 +6,11 @@
   
 **By default, global marks are persisted between editing sessions**  
   
-##m{letter}  
+## m{letter}  
 > to set a mark.  
   
 **Set a Global Mark Before Going Code Diving**  
-##:vimgrep /fooBar/  
+## :vimgrep /fooBar/  
 >to find all occurrences of a method called fooBar() in our codebase.  
   
 By default, :vimgrep jumps directly to the first match that it finds, which could mean switching to another file.  
@@ -24,5 +24,5 @@ Try to get into a habit of setting a global mark before using any commands that 
   
 Note: set a blobal mark any time you see something that you might want to snap back to later.  
   
-#[Tip57](tip57.md) [Tip59](tip59.md)
+# [Tip57](tip57.md) [Tip59](tip59.md)
 

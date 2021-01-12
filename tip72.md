@@ -1,4 +1,4 @@
-#Tip72: Tune the Case Sensitivity of Search Patterns  
+# Tip72: Tune the Case Sensitivity of Search Patterns  
   
 We can tune the case sensitivity of Vim's search globally or on a per-search basis.  
   
@@ -10,8 +10,8 @@ We can make Vim's search patterns **case insensitive** by enabling the 'ignoreca
 >`\C`: forces case sensitivity.  
   
 **Enabling Smarter Default Case Sensitivity**  
-##'smartcase'  
+## 'smartcase'  
 >If our pattern include an uppercase character, 'smartcase' canceling out the 'ignorecase'.  
 >If our pattern include all lowercase, the search will be case insensitive.  
   
-#[Tip71](tip71.md) [Tip73](tip73.md)
+# [Tip71](tip71.md) [Tip73](tip73.md)

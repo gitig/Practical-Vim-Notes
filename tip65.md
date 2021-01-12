@@ -1,4 +1,4 @@
-#Tip65: Normalize, Strike, Abort  
+# Tip65: Normalize, Strike, Abort  
 Executing a macro can sometimes produce unexpected results, but we can achieve better consistency if we follow a handful of best practices.  
   
 When we execute a macro, Vim blindly repeats the sequence of canned keystrokes.  
@@ -15,7 +15,7 @@ Don't forget: when recording a macro, using the mouse is **verboten**.
 **Abort When a Motion Fails**  
 If a motion fails while a macro is executing, then Vim aborts the rest of the macro.  
   
-##number@a  
+## number@a  
 >rather than executing `@a` ten times. We could prefix it with a count: `10@a`.  
   
-#[Tip64](tip64.md) [Tip66](tip66.md)
+# [Tip64](tip64.md) [Tip66](tip66.md)
